@@ -1,0 +1,33 @@
+.main {
+  background-color: #f4f3ef;
+  width: 81vw;
+}
+.nav {
+  width: 99%;
+  height: 50px;
+  margin-top: 7px;
+  margin-left: 5px;
+  background-color: rgb(225, 230, 236);
+  box-shadow: 2px 2px 5px #999;
+}
+.nav > p {
+  color: cadetblue;
+  padding: 5px 5px;
+  font-size: 15px;
+  margin: 12px 0px;
+  font-weight: 640;
+  margin-left: 5%;
+  margin-top: 5px;
+}
+.item {
+  border-style: solid;
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.owl-stage-outer {
+  margin: 2% 0 0 30px;
+}

@@ -1,0 +1,13 @@
+.header {
+  /* background-color: red; */
+
+  height: 59px;
+  border-bottom: 1px solid #cecece;
+}
+.nav {
+  display: flex;
+}
+.switch {
+  margin-top: -9px;
+  margin-left: 54px;
+}
